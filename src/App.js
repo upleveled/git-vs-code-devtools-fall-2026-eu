@@ -15,7 +15,7 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React. <button>random color</button>
         </a>
       </header>
     </div>
